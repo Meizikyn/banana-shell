@@ -1,5 +1,5 @@
 Banana Shell
 ============
 
-It does the stuff.
+A basic shell written in python for UTEP's Operating Systems course
 
